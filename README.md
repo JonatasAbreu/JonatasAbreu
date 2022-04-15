@@ -14,6 +14,7 @@
   <img align="center"  alt="Jhow-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
    <img align="center" alt="Jhow-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Jhow-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="right" alt="Jhow-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/955131347750506546/964633332581290064/iconGit.jpg">
  </div>
 
 ##
