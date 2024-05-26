@@ -6,6 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jhow-Js"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Jhow-Js" height="30" width="40" src="https://skillicons.dev/icons?i=ts" />
   <img align="center" alt="Jhow-Js"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center"  alt="Jhow-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Jhow-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -14,6 +15,10 @@
   <img align="center"  alt="Jhow-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
    <img align="center" alt="Jhow-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Jhow-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Jhow-Js" height="30" width="40" src="https://skillicons.dev/icons?i=cs" />
+   <img align="center" alt="Jhow-Js" height="30" width="40" src="https://skillicons.dev/icons?i=dotnet" />
+ 
+   <img align="center" alt="Jhow-Js" height="30" width="40" src="https://skillicons.dev/icons?i=azure" />
  </div>
 
 ##
